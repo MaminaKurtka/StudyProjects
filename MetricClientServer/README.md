@@ -1,4 +1,4 @@
-# MetricCloentServer
+# MetricClientServer
 
 To check capacity launch server (host, port) on 1 tab, then launch python3 interpreter and import class client in another tab. Create some clients with same host and port and try to use methods. 
 
